@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * language controller
+ * navbar controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
-module.exports = createCoreController('api::language.language');
+module.exports = createCoreController('api::navbar.navbar');

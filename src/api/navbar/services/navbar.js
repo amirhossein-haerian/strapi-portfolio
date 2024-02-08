@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * language service
+ * navbar service
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::language.language');
+module.exports = createCoreService('api::navbar.navbar');

@@ -12,6 +12,7 @@ module.exports = [
             'data:',
             'blob:',
             'dl.airtable.com',
+            'https://market-assets.strapi.io',
             'portfolio-strapi-upload.s3.us-east-1.amazonaws.com',
           ],
           'media-src': [
@@ -19,6 +20,7 @@ module.exports = [
             'data:',
             'blob:',
             'dl.airtable.com',
+            'https://market-assets.strapi.io',
             'portfolio-strapi-upload.s3.us-east-1.amazonaws.com',
           ],
           upgradeInsecureRequests: null,
